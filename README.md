@@ -12,6 +12,20 @@
 </p>
 
 <p align="center">
+  <a href="https://space.bilibili.com/237133596?spm_id_from=333.788.0.0" style="text-decoration: none;">
+    <img src="./docs/readme_imgs/bilibili_logo.png" alt="B站" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/647a1290000000001f006dc7" style="text-decoration: none;">
+    <img src="./docs/readme_imgs/xiaohongshu_logo.png" alt="小红书" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@user-schrodingerai" style="text-decoration: none;">
+    <img src="./docs/readme_imgs/youtube_logo.png" alt="YouTube" height="30"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="./README_CN.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-d9d9d9"></a>
 </p>
 
