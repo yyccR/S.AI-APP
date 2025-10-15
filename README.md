@@ -19,14 +19,6 @@
   <a href="https://www.xiaohongshu.com/user/profile/647a1290000000001f006dc7" style="text-decoration: none;">
     <img src="./docs/readme_imgs/xiaohongshu_logo.png" alt="小红书" height="30"/>
   </a>
-  &nbsp;
-  <a href="https://www.reddit.com/r/SAIapp/" style="text-decoration: none;">
-    <img src="./docs/readme_imgs/reddit_logo.png" alt="YouTube" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@user-schrodingerai" style="text-decoration: none;">
-    <img src="./docs/readme_imgs/youtube_logo.png" alt="YouTube" height="30"/>
-  </a>
 </p>
 
 <p align="center">
